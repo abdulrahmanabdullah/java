@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color:#A1B56c;
+}
+
+#labelResult{
+    -fx-font-size:2.0em ;
+    -fx-border-color : gray ;
+    -fx-border-width : 1px ;
+    -fx-border-radius: 4px ;
+    -fx-alignment: center ;
+
+}

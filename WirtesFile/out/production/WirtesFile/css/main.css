@@ -1,0 +1,13 @@
+.root{
+    -fx-background-color:#B8B8B8;
+}
+
+.vbox-la{
+-fx-alignment:center ;
+     -fx-border-color:black;
+}
+
+.btn{
+    -fx-font-size:0.9em ;
+
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WirtesFile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WirtesFile_jar</output-path>
+    <root id="archive" name="WirtesFile.jar">
+      <element id="module-output" name="WirtesFile" />
+    </root>
+  </artifact>
+</component>
